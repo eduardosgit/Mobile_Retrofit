@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    <string name="title" />
+    <string name="texto1">Digite o id do post:</string>
+    <string name="id"/>
+    <string name="bt_ok">OK</string>
+    <string name="mensagem">Título:</string>
+    <string name="number" />
 </resources>
